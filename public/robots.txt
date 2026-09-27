@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /favorites
+Disallow: /checkout
+
+Sitemap: https://autosale.example.com/sitemap.xml
